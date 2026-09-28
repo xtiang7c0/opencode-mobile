@@ -34,8 +34,8 @@
       }
     },
     "android": {
-      "package": "cc.agentlabs.opencode",
-      "versionCode": 42,
+      "package": "cc.agentlabs.opencode.keyboardtest",
+      "versionCode": 4203,
       "usesCleartextTraffic": true,
       "permissions": [
         "android.permission.FOREGROUND_SERVICE",
